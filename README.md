@@ -64,6 +64,6 @@
 
 ###
 
-<p align="left">Matheus de Souza Buth - https://www.linkedin.com/in/matheusbuth/<br><br>Curso : Nélio Alves https://github.com/devsuperior</p>
+<p align="left">Matheus de Souza Buth - https://www.linkedin.com/in/matheusbuth/<br><br>Curso: Nélio Alves https://github.com/devsuperior</p>
 
 ###
